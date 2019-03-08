@@ -14,6 +14,8 @@ API desarrollada con **React** y **WebPacks** para proporcionar un red social. p
 2. Listado de usuarios: permite visualizar un listado de usuarios con la opción de seguir al usuario y ver el perfil de los usuarios que sigues.
 3. comentarios de usuarios: permite agregar comentarios de usuarios.
 
+NOTA: cuando un usuario acepta tu solicitud, podras acceder a su perfil y ver los mensajes publicados por dicho usuario, pero ese usuario no podrá ver tus mensajes hasta que el te envie una solicitud.
+
 
  
 <p align="center">
